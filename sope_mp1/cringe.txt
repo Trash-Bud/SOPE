@@ -1,0 +1,7 @@
+S_IR (READ) W(write) X(execute) U(owner)
+
+S_IR(READ) GRP(group)
+
+S_IX (Execute) GRP (group)
+
+S_IR (READ) OTH (OTHER)
